@@ -1,0 +1,6 @@
+@HotelsApi_HostAddress = https://localhost:7105
+
+Post {{HotelsApi_HostAddress}}/hotel/nearest-user/
+Accept: application/json
+
+
